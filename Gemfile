@@ -39,3 +39,4 @@ gem 'jquery-rails'
 # gem 'ruby-debug'
 
 gem "omniauth-github"
+gem "heroku"
